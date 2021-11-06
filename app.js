@@ -117,6 +117,6 @@ function reset(){
 
     tipBtns[2].click();
 
-    people.value = '1';
+    people.value = '0';
     setPeopleValue();
 }
